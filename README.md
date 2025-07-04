@@ -35,4 +35,5 @@
 </div>
 
 ###
+<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fgif%2Fgoku-super-saiyan-blue-s655jzg3liqsvhdw.html&psig=AOvVaw0atMz5zjagH3CIxO6zbsIG&ust=1751721636893000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKCbufako44DFQAAAAAdAAAAABAE)"  />
 
