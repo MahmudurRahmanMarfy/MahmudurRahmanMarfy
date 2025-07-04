@@ -35,6 +35,6 @@
 </div>
 
 ###
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmYzNjYzNTIwM2U1ZDMyYzFkY2YxOWVmN2E0MTZiMmJkZDU1YWIxNiZjdD1n/goku-super-saiyan-blue-s655jzg3liqsvhdw/giphy.gif" />
+<img align="center" height="150" src="(https://github.com/MahmudurRahmanMarfy/MahmudurRahmanMarfy/blob/main/goku.gif)" />
 
 
