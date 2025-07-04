@@ -37,7 +37,7 @@
 
 ###
 
-<div>
+<div align="center">
   <img align="center" height="150" src="goku.gif"/>
 </div>
 
